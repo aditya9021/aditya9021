@@ -1,3 +1,4 @@
+![logo](https://github.com/aditya9021/aditya9021/blob/main/Github.jfif)
 <h1 align="center">Hi 👋, I'm Aditya Jadhav</h1>
 <h3 align="center">A passionate software developer eager to learn new technologies.</h3>
 
